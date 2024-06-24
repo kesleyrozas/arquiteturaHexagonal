@@ -1,0 +1,16 @@
+# npm run dev
+ Para iniciar o projeto via linha de comando
+
+# npm i terminal-kit 
+ Instalando o terminal kit para criar um menu 
+
+#npm i -D @types/terminal-kit
+ Adicionando os tipos
+
+#npm i bcrypt @types/bcrypt
+#npm i -D @types/bcrypt
+#npm i uuid
+#npm i -D @types/uuid
+#npm i pg-promise
+#npm i -D @types/pg-promise
+#npm i dotenv -- Ajuda carregar arquivos de configuração
